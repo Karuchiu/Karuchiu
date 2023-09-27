@@ -1,6 +1,6 @@
 <h1 align="center">Jambo 👋. Karuchiu.Don Karuchiu.</h1>
 <h3 align="center">A software dev from Kenya.</h3>
-<img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/yiaAYqLlJfoAAAAC/software-engineer-develop.gif">
+<img align="right" alt="griffingCoding" width="400" src="https://media.tenor.com/yiaAYqLlJfoAAAAC/software-engineer-develop.gif">
 
 [comment]: <img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
 [comment]: <img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/pDcT0vYOdckAAAAC/coding-3lines.gif">
