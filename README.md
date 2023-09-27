@@ -1,6 +1,9 @@
 <h1 align="center">Jambo 👋. Karuchiu.Don Karuchiu.</h1>
 <h3 align="center">A software dev from Kenya.</h3>
-<img align="right" alt="griffingCoding" width="400" src="https://media.tenor.com/pDcT0vYOdckAAAAC/coding-3lines.gif">
+<img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/yiaAYqLlJfoAAAAC/software-engineer-develop.gif">
+<img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
+<img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/pDcT0vYOdckAAAAC/coding-3lines.gif">
+<img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
 
 <p align="left"> <a href="https://twitter.com/karuchiu_" target="blank"><img src="https://img.shields.io/twitter/follow/karuchiu_?logo=twitter&style=for-the-badge" alt="karuchiu_" /></a> </p>
 
@@ -25,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karuchiu&show_icons=true&locale=en" alt="karuchiu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karuchiu&" alt="karuchiu" /></p>
 
