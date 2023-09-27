@@ -3,8 +3,8 @@
 <img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/yiaAYqLlJfoAAAAC/software-engineer-develop.gif">
 
 [comment]: <img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/fJAoBHWymY4AAAAC/do-not-touch-it-programmer.gif">
-align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/pDcT0vYOdckAAAAC/coding-3lines.gif">
-align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
+[comment]: <img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/pDcT0vYOdckAAAAC/coding-3lines.gif">
+[comment]: <img align="right" alt="griffingCoding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAC/kitten-cat.gif">
 
 <p align="left"> <a href="https://twitter.com/karuchiu_" target="blank"><img src="https://img.shields.io/twitter/follow/karuchiu_?logo=twitter&style=for-the-badge" alt="karuchiu_" /></a> </p>
 
