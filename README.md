@@ -1,4 +1,4 @@
-<h1 align="center">Jambo 👋. Karuchiu.Don Karuchiu.</h1>
+<h1 align="center">Jambo 👋. Karuchiu Wamahiga.</h1>
 <h3 align="center">A software dev from Kenya.</h3>
 <img align="right" alt="griffingCoding" width="400" src="https://media.tenor.com/yiaAYqLlJfoAAAAC/software-engineer-develop.gif">
 
