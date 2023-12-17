@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **karuchiu8@gmail.com**
 
-- ⚡ Fun fact: **I like funny amigos. So I'm funny too, LOL.**
+- ⚡ Fun fact: **I play football(Midfielder). I love Comedy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
