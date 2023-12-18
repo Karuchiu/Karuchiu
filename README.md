@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Dishee**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **karuchiu8@gmail.com**
 
